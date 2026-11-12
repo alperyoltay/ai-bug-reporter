@@ -1,0 +1,7 @@
+checkout crashes when i apply coupon
+1. login as test user
+2. add 2 items to cart
+3. go to checkout, enter SAVE10
+expected: 10% discount
+actual: white screen, TypeError in console
+chrome 131 on windows 11
